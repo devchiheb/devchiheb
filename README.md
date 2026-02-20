@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there am chiheb a cs student based on algeria  👋
 
-<!--
-**devchiheb/devchiheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
+- 🔭 I’m currently working on web devkopment stuff-react-tailwind-django- a bit of animation with framer motiom
+- 🌱 I’m currently learning java oop  and linux env
+  
+_________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TOOLS AND TECH 
+- react -tailwind
+- djago-php
+- figma
+- framer motion
+- c
+- js
+- dart
+- python
+- java
+- assembley
+- php
+- my sql
+
+_________________________________________________________________________________________________________________
+
+A little bit ABOUT me
+
+-tea person
+-i love coding and cats 
+
+- i love coding
+  
+  
