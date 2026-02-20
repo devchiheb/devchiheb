@@ -29,6 +29,5 @@ A little bit ABOUT me
 
 -i love coding and cats 
 
-- i love coding
   
   
